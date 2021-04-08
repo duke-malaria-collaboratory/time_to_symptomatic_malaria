@@ -6,5 +6,3 @@ System requirements: All code was implemented using R (version 4.0.2). Specific 
 
 Files included: 
 1) R scripts for implementing the statistical analyses and figure creation presented in the manuscript.
-
-Note: Data can be accessed via the Duke Research Data repository: https://research.repository.duke.edu. The data required are 3 data sets created using the primary, secondary permissive, and secondary stringent case definitions for symptomatic malaria. The de-identified data are presented in long format for the longitudinal, monthly follow-up of participants. Each data set is provided in RDS and CSV format. 
